@@ -1,5 +1,5 @@
 body {
-  background-image: url('./assets/chat\ app.png');
+  background-image: url('./assets/chatapp.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
@@ -26,8 +26,7 @@ body {
   font-family: 'Avenir'; 
   font-weight: 800; 
   letter-spacing: 0.5px; 
- 
-  padding-bottom: 12px; 
+   padding-bottom: 12px; 
 }
 
 .form-subtitle {
